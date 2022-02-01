@@ -32,7 +32,9 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "@react-three/fiber": "^7.0.26",
+    "express": "^4.17.1",
+    "three": "^0.137.5"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
