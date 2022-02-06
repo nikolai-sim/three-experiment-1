@@ -12,6 +12,7 @@ function Board() {
   
 >
   <Text fontSize={10} color='ghostwhite'>Three.js Experiment</Text>
+  
 </Billboard>)
 }
 export default Board

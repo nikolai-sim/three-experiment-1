@@ -23,9 +23,9 @@ const Scene = () => {
         <Box/>
         </mesh>
       <mesh position ={[100, 10, 10]}>
+        
         <Board/>
       </mesh>
-      
     </Canvas>
   )
 }

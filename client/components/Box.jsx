@@ -19,7 +19,7 @@ function Box (){
     <>
     <mesh onClick={clickHandle}>
       <torusBufferGeometry attach='geometry' color ='0xFF6347'  wireframe='true'/>
-      <meshLambertMaterial color ={color} wireframe='false'/>
+      <MeshWobbleMaterial color ={color} wireframe='false'/>
       </mesh>
     </>
     
