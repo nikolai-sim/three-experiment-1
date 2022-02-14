@@ -16,7 +16,7 @@ function Box (){
     setColor(colorArr[i])
   }
 
-  const handleKey = (key , e) => {}
+  const handleKey = (key , e) => {
     if ( key === 'c') {
       clickHandle()
     }
