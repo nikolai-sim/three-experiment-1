@@ -11,7 +11,7 @@ function Board() {
   lockZ={false} // Lock the rotation on the z axis (default=false)
   
 >
-  <Text fontSize={10} color='ghostwhite'>Three.js Experiment</Text>
+  <Text fontSize={10} color='ghostwhite'>Press C to change object Color </Text>
   
 </Billboard>)
 }

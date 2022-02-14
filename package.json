@@ -35,6 +35,7 @@
     "@react-three/drei": "^8.8.0",
     "@react-three/fiber": "^7.0.26",
     "express": "^4.17.1",
+    "react-keyboard-event-handler": "^1.5.4",
     "three": "^0.137.5"
   },
   "devDependencies": {
