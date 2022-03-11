@@ -1,10 +1,3 @@
-# React boilerplate
+# Experiments in React Three JS
 
-Contains the essence of a react component
-
-## Getting started
-
-```sh
-npm i
-npm run dev
-```
+Exploring 3d libraries for JS/React 
